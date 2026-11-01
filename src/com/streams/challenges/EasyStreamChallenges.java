@@ -1,4 +1,4 @@
-package com.streams;
+package com.streams.challenges;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -8,7 +8,7 @@ import java.util.OptionalDouble;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class StreamChallenges {
+public class EasyStreamChallenges {
 
 	// Dataset 1: Integers
 	List<Integer> numbers = Arrays.asList(5, 2, 8, 1, 9, 3, 7, 4, 6, 10, 2, 5, 8);
